@@ -1,0 +1,7 @@
+# Ignorar archivos objeto
+*.obj
+
+# Ignorar archivos ejecutables
+*.exe
+.env
+ayuda-memoria.txt
